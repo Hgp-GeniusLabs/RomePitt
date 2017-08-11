@@ -7,7 +7,8 @@
 //
 
 import XCTest
-@testable import my_awesome_app
+import FirebaseAuth
+
 
 class my_awesome_appTests: XCTestCase {
     
